@@ -1,1 +1,1 @@
-# Competative Programming Problems
+# HackerRank
